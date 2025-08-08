@@ -1,0 +1,2 @@
+# SQL_TASK-4
+SQL queries using SUM, COUNT, AVG, GROUP BY
